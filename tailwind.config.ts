@@ -6,7 +6,10 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['var(--font-geist-sans)']
+        inter: ['var(--font-inter)']
+      },
+      colors: {
+        'chs-gray': '#F5F4F5'
       },
       keyframes: {
         fadeIn: {
