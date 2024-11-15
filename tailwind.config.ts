@@ -9,7 +9,8 @@ const config: Config = {
         inter: ['var(--font-inter)']
       },
       colors: {
-        'chs-gray': '#F5F4F5'
+        'chs-gray': '#F5F4F5',
+        'chs-dark-gray': '#707070'
       },
       keyframes: {
         fadeIn: {
